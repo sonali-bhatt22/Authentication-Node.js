@@ -32,20 +32,20 @@ This is a full-stack authentication application built with **React (frontend)** 
 
 ---
 ## Setup BACKEND
-cd backend
-npm install
+- cd backend
+- npm install
 
 # Create a .env file:
 .env
 
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret_key
+- PORT=5000
+- MONGO_URI=your_mongodb_connection_string
+- JWT_SECRET=your_jwt_secret_key
 
 ## Setup FRONTEND
-cd ../frontend
-npm install
-npm run dev
+- cd ../frontend
+- npm install
+- npm run dev
 
 
 
