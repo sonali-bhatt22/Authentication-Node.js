@@ -35,7 +35,7 @@ This is a full-stack authentication application built with **React (frontend)** 
 - cd backend
 - npm install
 
-# Create a .env file:
+### Create a .env file:
 .env
 
 - PORT=5000
