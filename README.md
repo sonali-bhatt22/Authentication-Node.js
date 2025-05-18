@@ -2,8 +2,6 @@
 
 This is a full-stack authentication application built with **React (frontend)** and **Node.js + Express (backend)**. It features secure user authentication using **JWT**, along with protected routes and password encryption via **bcrypt**.
 
----
-
 ##  Features
 
 -  User Registration & Login
@@ -12,8 +10,6 @@ This is a full-stack authentication application built with **React (frontend)** 
 -  Protected frontend and backend routes
 -  API integration between React and Express
 -  Environment-based configuration with `.env`
-
----
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +26,7 @@ This is a full-stack authentication application built with **React (frontend)** 
 - jsonwebtoken
 - dotenv
 
----
+
 ## Setup BACKEND
 - cd backend
 - npm install
